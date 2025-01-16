@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient(to right,rgb(75, 181, 252),rgb(74, 106, 249));
+    font-family: monospace;
+}
+
+.tabs{
+    padding: 5px;
+    margin-bottom: 2%;
+    background-image: linear-gradient(to right, steelblue, rgb(194, 194, 255));
+    border-radius: 10px;
+}
+
+.heading{ margin-top: 1%;
+    padding: 0%;
+    text-align: center;
+    font-size: x-large;
+    font-family: monospace;
+    
+}
+
+label{
+display: inline-block;
+width: 120px;
+margin-bottom: 20px;
+
+}
+#pics{
+    padding: 1%;
+    display: inline-flex;
+
+ 
+}
+
+img.H1pic{
+    border-radius: 25%;
+    padding: 1.2% 1.2% 1.2% 1.2%;
+}
+img.H2pic{
+    border-radius: 25%;
+    padding: 1.2%;
+}
+img.H3pic{
+    border-radius: 25%;
+    padding: 1.2%;
+}
+
+#logo{
+    padding-top: 5px;
+    padding-left: 46%;
+}
+
+footer{
+    margin-bottom: 0%;
+}
+
